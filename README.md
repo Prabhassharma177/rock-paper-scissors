@@ -29,17 +29,6 @@ An interactive and responsive **Rock, Paper, Scissors** game built with **HTML, 
 - **CSS3** – Styling & layout
 - **JavaScript (Vanilla)** – Game logic & interactions
 
----
-
-## 🖼️ Screenshots *(Optional)*
-
-<!-- Upload a screenshot and use the relative path -->
-<!-- Example:
-![Gameplay Screenshot](<img width="1903" height="1012" alt="rock, paper scissor png" src="https://github.com/user-attachments/assets/58914464-b41a-40cd-b359-1c1ce5425438" />
-)
--->
-
----
 
 ## 📁 Project Structure
 
