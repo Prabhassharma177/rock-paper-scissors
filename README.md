@@ -35,10 +35,15 @@ An interactive and responsive **Rock, Paper, Scissors** game built with **HTML, 
 
 <!-- Upload a screenshot and use the relative path -->
 <!-- Example:
-![Gameplay Screenshot](./assets/screenshot.png)
+![Gameplay Screenshot](<img width="1903" height="1012" alt="rock, paper scissor png" src="https://github.com/user-attachments/assets/58914464-b41a-40cd-b359-1c1ce5425438" />
+)
 -->
 
 ---
 
 ## 📁 Project Structure
 
+rock-paper-scissors/
+├── index.html        # Main HTML file that renders the UI
+├── style.css         # Contains all styling, layout, and responsive design
+└── script.js         # Core game logic: event handling, randomization, and game rules
