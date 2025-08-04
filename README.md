@@ -8,7 +8,7 @@ An interactive and responsive **Rock, Paper, Scissors** game built with **HTML, 
 
 ## 🔗 Live Demo
 
-🌐 **Play here** → [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)  
+🌐 **Play here** → https://prabhassharma177.github.io/rock-paper-scissors/  
 *(Replace this with your actual deployed URL)*
 
 ---
